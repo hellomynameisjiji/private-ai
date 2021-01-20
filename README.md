@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # private-ai
 
 Notebooks for Udacity's Secure and Private AI course.
@@ -14,3 +15,6 @@ conda install pytorch torchvision -c pytorch
 pip install syft
 ```
 
+=======
+# private-ai
+>>>>>>> a3fe23c3efe0f465dfacc1c4e0386f74a276b1de
