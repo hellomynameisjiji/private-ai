@@ -1,0 +1,5 @@
+{
+    "jupyter.jupyterServerType": "local",
+    "python.pythonPath": "/Users/jiji/opt/anaconda3/envs/pysyft/bin/python",
+    "git.ignoreLimitWarning": true
+}
